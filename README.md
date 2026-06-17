@@ -3,7 +3,7 @@
 
 ### Estudiante de Desarrollo de Software en ITLA
 
-*Apasionado por el desarrollo backend utilizando .NET, ASP.NET Core MVC, ASP.NET Web API, SQL Server, Onion Architecture y patrones de diseño como Repository, Adapter, Factory, Strategy y Singleton.*
+*Apasionado por el desarrollo backend utilizando .NET, ASP.NET Core MVC, ASP.NET Web API, Entity Framework, Sql Server, Onion Architecture y patrones de diseño como Repository, Adapter, Factory, Strategy y Singleton.*
 
 ```javascript
 const hanser = {
